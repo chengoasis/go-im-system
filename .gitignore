@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Go build outputs
+server
+client
+im-server
+im-client
+*.exe
+*.test
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
